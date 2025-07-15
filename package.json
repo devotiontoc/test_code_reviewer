@@ -1,0 +1,11 @@
+{
+  "name": "reviewer-test-project",
+  "version": "1.0.0",
+  "description": "A test project for the AI Code Reviewer",
+  "main": "src/services/cart.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
