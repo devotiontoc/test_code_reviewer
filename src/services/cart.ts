@@ -6,7 +6,7 @@ interface CartItem {
     price: number;
     quantity: number;
 }
-
+//COMMENT
 /**
  * A simple function to add an item to the cart.
  */
